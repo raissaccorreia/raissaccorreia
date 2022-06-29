@@ -6,7 +6,7 @@
 - 💬 All my social media is on https://linktr.ee/RaiCorreia
 - 📫 How to reach me: raisssa.correia@gmail.com (or DM on twitter)
 - 👩🏻 Pronouns: She/Her
-- 🔣 Languages: Portuguese(Native), English(fluent), French(currently learning, basic)
+- 🔣 Languages: Portuguese(Native), English(fluent), French and Spanish(currently learning, basic speak and writing, intermediate reading and listening)
 - 🌎 Time Zone: I live in Brazil UTC-3
 
 <div>
