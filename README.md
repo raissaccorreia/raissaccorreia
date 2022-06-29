@@ -1,14 +1,24 @@
 ### Hello, I'm Raissa Correia 👋
 
 - 🔭 Currently working as a FullStack Web Dev at Brazil's Robocup Federation
-- 🌱 Learning devOps and more Spring
-- 💼 Looking to new job opportunities(December 2023) in European Union and EEA countries, looking for large companies.
-- 💬 All my social media is on https://linktr.ee/RaiCorreia
-- 📫 How to reach me: raideveloper@proton.me (my professional email) or DM on Twitter @raideveloper
+- 🌱 Learning DevOps and Rust
+- 💼 Looking to new job opportunities starting at December 2022 preferably
+    - 🇪🇺 European Union and EEA countries
+    - 🛫 To move abroad
+    - 🏢 Looking for large and mid-size companies
+    - 🤖 Current Stack: React, Spring Boot, MySQL
+- 💬 All my social media is on my Linktree: https://linktr.ee/RaiCorreia
+- 📫 How to reach me: 
+    - ✉️ raideveloper@proton.me (my professional email) or
+    - 🐦 DM on Twitter @raideveloper
 - 👩🏻 Pronouns: She/Her
-- 🔣 Languages: Portuguese(Native), English(fluent), French and Spanish(currently learning, basic speak and writing, intermediate reading and listening)
-- 🌎 Time Zone: I live in Brazil UTC-3
-- 🛂 Citizenship: Brazilian and Portuguese.
+- 🔣 Languages, kinda like a hobbie: 
+    - 🇧🇷 Portuguese(Native)
+    - 🇺🇸 English(fluent)
+    - 🇫🇷 French (currently learning, basic speak and writing, intermediate reading and listening)
+    - 🇪🇸 Spanish (currently learning, basic speak and writing, intermediate reading and listening)
+- 🌎 Time Zone: I live in Brazil, UTC-3
+- 🛂 Citizenship: Brazilian and Portuguese
 
 <div>
   <a href="https://github.com/raissaccorreia">
