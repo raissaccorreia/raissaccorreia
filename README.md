@@ -2,12 +2,13 @@
 
 - 🔭 Currently working as a FullStack Web Dev at Brazil's Robocup Federation
 - 🌱 Learning devOps and more Spring
-- 💼 Looking to new job opportunities(jan/2022 and later) as a freelancer and with startups/small companies
+- 💼 Looking to new job opportunities(December 2023) in European Union and EEA countries, looking for large companies.
 - 💬 All my social media is on https://linktr.ee/RaiCorreia
 - 📫 How to reach me: raisssa.correia@gmail.com (or DM on twitter)
 - 👩🏻 Pronouns: She/Her
 - 🔣 Languages: Portuguese(Native), English(fluent), French and Spanish(currently learning, basic speak and writing, intermediate reading and listening)
 - 🌎 Time Zone: I live in Brazil UTC-3
+- 🛂 Citizenship: Brazilian and Portuguese.
 
 <div>
   <a href="https://github.com/raissaccorreia">
