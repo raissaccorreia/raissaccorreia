@@ -4,7 +4,7 @@
 - 🌱 Learning devOps and more Spring
 - 💼 Looking to new job opportunities(December 2023) in European Union and EEA countries, looking for large companies.
 - 💬 All my social media is on https://linktr.ee/RaiCorreia
-- 📫 How to reach me: raisssa.correia@gmail.com (or DM on twitter)
+- 📫 How to reach me: raideveloper@proton.me (my professional email) or DM on Twitter @raideveloper
 - 👩🏻 Pronouns: She/Her
 - 🔣 Languages: Portuguese(Native), English(fluent), French and Spanish(currently learning, basic speak and writing, intermediate reading and listening)
 - 🌎 Time Zone: I live in Brazil UTC-3
