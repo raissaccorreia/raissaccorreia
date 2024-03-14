@@ -1,13 +1,12 @@
 ### Hello, I'm Raissa Correia 👋
 
-- 🔭 Currently working as a FullStack Web Dev at Brazil's Robocup Federation
-- 🌱 Learning DevOps and Rust
+- 🔭 Currently working as a FullStack Web Dev Consultant at PYYNE LLC
+- 🌱 Hoping to migrate to Project Management
 - 💼 Looking to new job opportunities starting at December 2022 preferably
-    - 🇪🇺 European Union and EEA countries
-    - 🛫 To move abroad
-    - 🏢 Looking for large and mid-size companies
-    - 🤖 Current Stack: React, Spring Boot, MySQL
-- 💬 All my social media is on my Linktree: https://linktr.ee/RaiCorreia
+    - 🌎 Remote Jobs that can be applied for anywhere, to travel the world is a passion
+    - 🏢 Employees count is just a number, open to companies of all sizes
+    - 🤖 Current Stack: React/Remix on Frontend, Node.js/Nest.js Backend, PostgreSQL
+- 💬 All my social media is on my Linktree, mostly @raideveloper everywhere: https://linktr.ee/RaiCorreia
 - 📫 How to reach me: 
     - ✉️ raideveloper@proton.me (my professional email) or
     - 🐦 DM on Twitter @raideveloper
@@ -15,8 +14,8 @@
 - 🔣 Languages, kinda like a hobbie: 
     - 🇧🇷 Portuguese(Native)
     - 🇺🇸 English(fluent)
-    - 🇫🇷 French (currently learning, basic speak and writing, intermediate reading and listening)
-    - 🇪🇸 Spanish (currently learning, basic speak and writing, intermediate reading and listening)
+    - 🇫🇷 French (C1)
+    - 🇪🇸 Spanish (C1)
 - 🌎 Time Zone: I live in Brazil, UTC-3
 - 🛂 Citizenship: Brazilian and Portuguese
 
