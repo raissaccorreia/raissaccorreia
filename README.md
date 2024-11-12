@@ -1,15 +1,16 @@
 ### Hello, I'm Raissa Correia 👋
 
-- 🔭 Currently working as a FullStack Web Dev on Projects with NDA and personal projects too
-- 🌱 Hoping to migrate to Project Management
+- 🔭 Currently working as a FullStack Web Dev on Projects with NDA
+- 🌱 Building my own startup, news soon!
+- 🌐 raideveloper.dev is my personal website
 - 💼 Looking to new job opportunities preferably
     - 🌎 Remote Jobs that can be applied for anywhere, to travel the world is a passion
     - 🏢 Employees count is just a number, open to companies of all sizes
     - 🤖 Current Stack: React/Remix on Frontend, Node.js/Nest.js Backend, PostgreSQL
 - 💬 All my social media is on my Linktree, mostly @raideveloper everywhere: https://linktr.ee/raideveloper
-- 📫 How to reach me: 
+- 📫 How to reach me:
     - ✉️ raideveloper@proton.me (my professional email) or
-    - 🐦 DM on Instagram(RIP Twitter in Brazil) @raideveloper 
+    - 🐦 DM on Instagram @raideveloper 
 - 👩🏻 Pronouns: She/Her
 - 🔣 Languages, kinda like a hobbie: 
     - 🇧🇷 Portuguese(Native)
