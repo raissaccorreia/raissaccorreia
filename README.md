@@ -1,7 +1,7 @@
 ### Hello, I'm Raissa Correia 👋
 
-- 🔭 Senior Full-Stack Developer @ John Deere. Currently working on the global aftermarket e-commerce marketplace, with multi-locale CMS, React/Next.js frontends, GraphQL services, and enterprise CI/CD pipelines.
-- 🌱 Founder & CTO of ASYR Fashion. Building the MVP of a fashion marketplace at https://asyr.fashion
+- 🔭 Senior Full-Stack. Currently working on the global aftermarket e-commerce marketplace, with multi-locale CMS, React/Next.js frontends, GraphQL services, and enterprise CI/CD pipelines.
+- 🌱 Building the MVP of a fashion marketplace at https://asyr.fashion
 - 🌐 raideveloper.dev is my personal website
 - 💻 Tech Stack (recent projects)
     - Frontend: React, Next.js (App Router), Remix, Tailwind, ShadCN
