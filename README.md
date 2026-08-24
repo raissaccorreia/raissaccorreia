@@ -1,31 +1,47 @@
 # Hi, I'm Raissa Correia
 
-Senior full-stack developer and founder building [ASYR](https://asyr.fashion), a community for people who live fashion.
+Senior Full-Stack Product Engineer building digital products across product strategy, UX, frontend, backend, analytics, and infrastructure.
 
-I work on complex digital products across frontend architecture, backend services, and delivery infrastructure. I care about products that feel clear to use and remain maintainable as they grow.
+I specialize in e-commerce, marketplaces, and early-stage products that require both technical depth and strong product judgment.
 
-## Currently
+## What I'm building
 
-- Previous job was on a global aftermarket e-commerce marketplace with multi-locale CMS, React and Next.js frontends, GraphQL services, and enterprise CI/CD pipelines.
-- Building the MVP of ASYR, where fashion, product, and technology meet.
-- Writing and sharing what I learn about software, product, and building a company.
+### [ASYR](https://asyr.fashion)
 
-## Recent stack
+I founded ASYR to explore a more personal and contextual way to discover and buy fashion online.
 
-- **Frontend:** React, Next.js (App Router), Remix, Tailwind CSS, shadcn/ui
-- **Backend:** Node.js, NestJS, GraphQL, PostgreSQL
-- **Infrastructure:** AWS, Docker, GitHub Actions, CDN workflows
-- **Architecture:** Monorepos, modular design, CMS integrations, global marketplaces
+As its product engineer, I work across product strategy, UX, web and mobile applications, backend services, analytics, infrastructure, and delivery.
+
+### [Creative Computing Lab](https://github.com/raissaccorreia/creative-computing-lab)
+
+A public laboratory for experiments in visual computing and interface design.
+
+The project explores SVG, motion, interactive data, accessibility, performance, and emerging browser technologies through runnable, documented, and tested experiments.
+
+## Professional background
+
+Most recently, I worked as an EVT consultant on the modernization of John Deere's U.S. aftermarket e-commerce marketplace, contributing to multi-locale storefronts, CMS integrations, React and Next.js applications, GraphQL services, and enterprise delivery workflows.
+
+My broader experience includes e-commerce, marketplaces, complex business systems, consulting, and early-stage product development.
+
+## Engineering focus
+
+- TypeScript, React, Next.js, React Native, and Expo
+- Node.js, NestJS, GraphQL, and PostgreSQL
+- Product architecture, analytics, testing, and CI/CD
+- E-commerce, marketplaces, and discovery experiences
+- Products that connect technical decisions with real business and user needs
+
+## Availability
+
+I'm open to senior full-stack, product engineering, and frontend opportunities, as well as selected contract and technical product consulting engagements.
+
+Based in Brazil, with European Union citizenship, and available for remote or hybrid work.
 
 ## Find me
 
-- Website: [raideveloper.dev](https://raideveloper.dev)
-- ASYR: [asyr.fashion](https://asyr.fashion)
-- Socials: [@raideveloper](https://linktr.ee/raideveloper)
-- Email: [raideveloper@proton.me](mailto:raideveloper@proton.me)
-
-## Languages
-
-Portuguese (native) · English (fluent) · French (B2) · Spanish (B2)
-
-Pronouns: she/her
+- [Portfolio](https://raideveloper.dev/en)
+- [LinkedIn](https://www.linkedin.com/in/raideveloper/)
+- [ASYR](https://asyr.fashion)
+- [Creative Computing Lab](https://github.com/raissaccorreia/creative-computing-lab)
+- [Email](mailto:raideveloper@proton.me)
