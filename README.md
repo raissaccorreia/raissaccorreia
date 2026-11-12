@@ -12,11 +12,21 @@ I founded ASYR to explore a more personal and contextual way to discover and buy
 
 As its product engineer, I work across product strategy, UX, web and mobile applications, backend services, analytics, infrastructure, and delivery.
 
-### [Creative Computing Lab](https://github.com/raissaccorreia/creative-computing-lab)
+## Public labs and practice
 
-A public laboratory for experiments in visual computing and interface design.
+### [Visual Interfaces Lab](https://github.com/raissaccorreia/visual-interfaces-lab)
 
-The project explores SVG, motion, interactive data, accessibility, performance, and emerging browser technologies through runnable, documented, and tested experiments.
+A public lab for small, runnable experiments in visual computing and interface design. Each experiment asks one question, ships a demo, and records its results, limits, and a final decision.
+
+Investigations so far cover SVG and motion, SVG vs. Canvas at increasing volumes, 2D vs. 3D presentation, materials and shaders, and CPU vs. GPU ranking, with accessibility and performance measured throughout. WebXR as progressive enhancement is next.
+
+### [Testing Lab](https://github.com/raissaccorreia/testing-lab)
+
+A reference monorepo for unit, integration, and end-to-end testing across a Next.js web app, an Expo mobile app, and a NestJS API. The features are deliberately small; the point is the tests around them, as a trustworthy base for people and coding agents to build on.
+
+### [Product Engineering Interview Prep](https://github.com/raissaccorreia/product-engineering-interview-prep)
+
+An open practice log for JavaScript, TypeScript, algorithms, React, and product engineering, worked through in small, reviewed increments with original exercises and synthetic examples.
 
 ## Professional background
 
@@ -43,5 +53,7 @@ Based in Brazil, with European Union citizenship, and available for remote or hy
 - [Portfolio](https://raideveloper.dev/en)
 - [LinkedIn](https://www.linkedin.com/in/raideveloper/)
 - [ASYR](https://asyr.fashion)
-- [Creative Computing Lab](https://github.com/raissaccorreia/creative-computing-lab)
+- [Visual Interfaces Lab](https://github.com/raissaccorreia/visual-interfaces-lab)
+- [Testing Lab](https://github.com/raissaccorreia/testing-lab)
+- [Product Engineering Interview Prep](https://github.com/raissaccorreia/product-engineering-interview-prep)
 - [Email](mailto:raideveloper@proton.me)
